@@ -8,5 +8,6 @@ namespace WpfApplication1.NewFolder2
 {
     class Class1
     {
+        int a;
     }
 }
