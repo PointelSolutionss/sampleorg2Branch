@@ -69,6 +69,7 @@
   <ItemGroup>
     <Compile Include="NewFolder1\Class1.cs" />
     <Compile Include="NewFolder1\LoclClass2.cs" />
+    <Compile Include="NewFolder2\Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
